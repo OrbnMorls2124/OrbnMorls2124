@@ -20,7 +20,7 @@ I enjoy turning coursework into complete, working products, from billing and inv
 
 **Frontend:** Angular, React, Vite, Tailwind CSS,
 
-**Data & Infrastructure:** SQL databases, Docker, Docker Compose, OpenAPI
+**Data & Infrastructure:** MySQL databases, Docker, Docker Compose, OpenAPI
 
 **Computer Vision:** OpenCV, ONNX, MobileNetV2, NumPy, Pillow
 
