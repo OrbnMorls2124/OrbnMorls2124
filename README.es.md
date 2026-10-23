@@ -2,7 +2,7 @@
 
 [English](README.md) · **Español**
 
-Estudiante de Ingeniería en Tecnologías Computacionales enfocado en desarrollo de software, aplicaciones web full-stack, sistemas backend y visión por computadora.
+Estudiante de Ingeniería en Tecnologías Computacionales enfocado en desarrollo de software, aplicaciones web full-stack, sistemas frontend backend y visión por computadora.
 
 Me gusta convertir proyectos académicos en productos completos y funcionales: sistemas de facturación e inventario, plataformas de comercio electrónico y clasificación de objetos en tiempo real con visión por computadora.
 
