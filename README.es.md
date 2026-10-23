@@ -10,7 +10,7 @@ Me gusta convertir proyectos académicos en productos completos y funcionales: s
 - Ingeniería en Tecnologías Computacionales — Universidad Privada de San Pedro Sula (USAP)
 - Graduación esperada: 2027
 - Inglés: Avanzado
-- Abierto a puestos junior de ingeniería de software, pasantías y oportunidades en tecnología
+- Abierto a puestos junior de ingeniería de software y oportunidades en tecnología
 
 ## Tecnologías
 
