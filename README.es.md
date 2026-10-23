@@ -14,13 +14,13 @@ Me gusta convertir proyectos académicos en productos completos y funcionales: s
 
 ## Tecnologías
 
-**Lenguajes:** Python, JavaScript, TypeScript, PHP, SQL, HTML, CSS
+**Lenguajes:** Python, JavaScript, TypeScript, PHP, SQL, HTML, CSS, C#
 
-**Backend:** Django, Node.js, Express, PHP, APIs REST
+**Backend:** Django, Node.js, Express, PHP, APIs REST, Laravel
 
-**Frontend:** Angular, React, Vite, Tailwind CSS
+**Frontend:** Angular, React, Vite, Tailwind CSS, Bootstrap
 
-**Datos e infraestructura:** bases de datos SQL, Docker, Docker Compose, OpenAPI
+**Datos e infraestructura:** bases de datos MySQL, Docker, Docker Compose, OpenAPI
 
 **Visión por computadora:** OpenCV, ONNX, MobileNetV2, NumPy, Pillow
 
