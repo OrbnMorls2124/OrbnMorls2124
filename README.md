@@ -2,7 +2,7 @@
 
 **English** · [Español](README.es.md)
 
-Software Engineering student focused on software development, full-stack web applications, backend systems, and computer vision.
+Software Engineering student focused on software development, full-stack web applications, frontend and backend systems, and computer vision.
 
 I enjoy turning coursework into complete, working products, from billing and inventory systems to e-commerce platforms and real-time object classification with computer vision.
 
