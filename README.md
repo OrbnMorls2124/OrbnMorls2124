@@ -2,7 +2,7 @@
 
 **English** · [Español](README.es.md)
 
-Computer Technology Engineering student focused on software development, full-stack web applications, backend systems, and computer vision.
+Software Engineering student focused on software development, full-stack web applications, backend systems, and computer vision.
 
 I enjoy turning coursework into complete, working products, from billing and inventory systems to e-commerce platforms and real-time object classification with computer vision.
 
@@ -10,15 +10,15 @@ I enjoy turning coursework into complete, working products, from billing and inv
 - Software Engineering — Universidad Privada de San Pedro Sula (USAP)
 - Expected graduation: 2027
 - English: Advanced
-- Open to junior software engineering roles, internships, and technology opportunities
+- Open to junior software engineering roles and technology opportunities
 
 ## Tech
 
-**Languages:** Python, JavaScript, TypeScript, PHP, SQL, HTML, CSS
+**Languages:** Python, JavaScript, TypeScript, PHP, SQL, HTML, CSS, C#
 
-**Backend:** Django, Node.js, Express, PHP, REST APIs
+**Backend:** Django, Node.js, Express, PHP, REST APIs, Laravel
 
-**Frontend:** Angular, React, Vite, Tailwind CSS
+**Frontend:** Angular, React, Vite, Tailwind CSS,
 
 **Data & Infrastructure:** SQL databases, Docker, Docker Compose, OpenAPI
 
