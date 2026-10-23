@@ -7,7 +7,7 @@ Computer Technology Engineering student focused on software development, full-st
 I enjoy turning coursework into complete, working products, from billing and inventory systems to e-commerce platforms and real-time object classification with computer vision.
 
 - Based in San Pedro Sula, Honduras
-- Computer Technology Engineering — Universidad Privada de San Pedro Sula (USAP)
+- Software Engineering — Universidad Privada de San Pedro Sula (USAP)
 - Expected graduation: 2027
 - English: Advanced
 - Open to junior software engineering roles, internships, and technology opportunities
